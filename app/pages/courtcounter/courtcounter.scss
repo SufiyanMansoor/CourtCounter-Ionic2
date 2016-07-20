@@ -1,0 +1,27 @@
+.CourtcounterPage {
+ion-card {
+    position: relative;
+    text-align: center;
+  }
+
+  .card-title {
+    position: absolute;
+    top: 36%;
+    font-size: 5.0em;
+    width: 100%;
+    font-weight: bold;
+    color: black;
+    
+  }
+
+  .pak{
+   color: green;
+   letter-spacing: 2px;
+
+  }
+  .ind{
+   color: darkorange;
+   letter-spacing: 2px;
+
+  }
+}
